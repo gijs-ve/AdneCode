@@ -1,9 +1,3 @@
-<div id="header" align="center">
-
-  <img src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/>
-
-<h1>Hello and welcome to my Github page</h1>
-</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
