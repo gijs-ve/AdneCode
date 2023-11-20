@@ -9,7 +9,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" title="Socket.io" alt="Socket.io" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThy0w2wYMMH4foeX0JMg4bdGyNLne6inaP5y2FJMu98DDmulkKIOPhzPY54HPfl_hTOeM&usqp=CAU" title="Express" alt="Express" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
